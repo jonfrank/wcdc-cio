@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bright yellow 5-pointed star -->
+  <path 
+    d="M100 10 L120 75 L190 75 L135 115 L155 180 L100 140 L45 180 L65 115 L10 75 L80 75 Z" 
+    fill="#FFD700" 
+    stroke="none" />
+</svg>
