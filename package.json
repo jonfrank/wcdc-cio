@@ -4,8 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "vite --base=/wcdc-cio/",
+    "build": "vite build --base=/",
+    "build:github": "vite build --base=/wcdc-cio/",
     "lint": "eslint .",
     "preview": "vite preview"
   },
