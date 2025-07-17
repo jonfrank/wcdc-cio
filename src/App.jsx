@@ -10,15 +10,8 @@ function App() {
         </p>
         <p className="md:text-2xl font-bold py-4">
           Worthing Churches Debt Centre has recently (July 2025) been
-          incorporated as a CIO,{' '}
-          <a
-            href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5264331"
-            target="_blank"
-          >
-            registered charity number 1214076
-          </a>
-          . It is not yet operational, but we are working hard to get up and
-          running as early as possibly in the autumn of 2025.
+          incorporated as a CIO. We are not yet operational, but we are working
+          hard to get up and running as early as possibly in the autumn of 2025.
         </p>
         <p className="text-sm md:text-lg py-4">
           The Debt Centre will run as a local partner of{' '}
@@ -43,6 +36,18 @@ function App() {
             worthing.churches.debt.centre
           </span>{' '}
           @ Google's normal mail service.
+        </p>
+        <p className="text-xs md:text-xs py-4">
+          Worthing Churches Debt Centre is a Charitable Incorporated
+          Organisation (CIO) registered with the Charity Commission for England
+          and Wales (no. 1214076).
+          <a
+            href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5264331"
+            target="_blank"
+          >
+            More details here
+          </a>
+          .
         </p>
       </div>
     </div>
