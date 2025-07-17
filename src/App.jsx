@@ -1,9 +1,6 @@
-import { useState } from 'react';
 import './App.css';
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <div className="font-semibold text-xl">
       {/* <div className="fixed inset-0 bg-white/70 z-10"></div> */}
@@ -12,8 +9,16 @@ function App() {
           Worthing Churches Debt Centre CIO
         </p>
         <p className="md:text-2xl font-bold py-4">
-          Worthing Churches Debt Centre is currently (May 2025) in the process
-          of being incorporated as a CIO. It is not yet operational.
+          Worthing Churches Debt Centre has recently (July 2025) been
+          incorporated as a CIO,{' '}
+          <a
+            href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5264331"
+            target="_blank"
+          >
+            registered charity number 1214076
+          </a>
+          . It is not yet operational, but we are working hard to get up and
+          running as early as possibly in the autumn of 2025.
         </p>
         <p className="text-sm md:text-lg py-4">
           The Debt Centre will run as a local partner of{' '}
