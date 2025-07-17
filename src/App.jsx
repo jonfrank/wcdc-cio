@@ -39,15 +39,15 @@ function App() {
         </p>
         <p className="text-xs md:text-xs py-4">
           Worthing Churches Debt Centre is a Charitable Incorporated
-          Organisation (CIO) registered with the Charity Commission for England
-          and Wales (no. 1214076).
+          Organisation (CIO)
+          <br />
           <a
             href="https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/5264331"
             target="_blank"
           >
-            More details here
+            registered with the Charity Commission for England and Wales (no.
+            1214076)
           </a>
-          .
         </p>
       </div>
     </div>
