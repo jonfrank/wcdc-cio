@@ -11,7 +11,7 @@ function App() {
         <p className="md:text-2xl font-bold py-4">
           Worthing Churches Debt Centre has recently (July 2025) been
           incorporated as a CIO. We are not yet operational, but we are working
-          hard to get up and running as early as possibly in the autumn of 2025.
+          hard to get up and running as early as possible in 2026.
         </p>
         <p className="text-sm md:text-lg py-4">
           The Debt Centre will run as a local partner of{' '}
