@@ -32,8 +32,8 @@ function App() {
         <p className="text-sm md:text-lg py-4">
           You can contact the local team (for example, to discuss supporting the
           CIO with grant funding) at{' '}
-          <span className="font-bold font-mono">hello</span> @ the domain name
-          of this website (starts with worthing, ends .org).
+          <span className="font-bold font-mono">hello@</span> the domain name of
+          this website (starts with worthing, ends .org).
         </p>
         <p className="text-xs md:text-xs py-4">
           Worthing Churches Debt Centre is a Charitable Incorporated
