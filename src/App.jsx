@@ -33,7 +33,9 @@ function App() {
           You can contact the local team (for example, to discuss supporting the
           CIO with grant funding) at{' '}
           <span className="font-bold font-mono">hello@</span> the domain name of
-          this website (starts with worthing, ends .org).
+          this website (starts with{' '}
+          <span className="font-bold font-mono">worthing</span>, ends{' '}
+          <span className="font-bold font-mono">.org</span>).
         </p>
         <p className="text-xs md:text-xs py-4">
           Worthing Churches Debt Centre is a Charitable Incorporated
